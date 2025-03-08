@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#FF69B4"  # Hot Pink
+backgroundColor = "#FFF0F5"  # Lavender Blush
+secondaryBackgroundColor = "#FFE4E1"  # Misty Rose
+textColor = "#FF1493"  # Deep Pink
+font = "sans-serif"
+
+[server]
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
